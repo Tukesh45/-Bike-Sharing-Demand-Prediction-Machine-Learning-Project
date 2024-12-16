@@ -39,8 +39,3 @@ The insights from this project can help optimize resource allocation, improve op
 - Proper handling of **multicollinearity** and **outliers** is crucial for reliable predictions.  
 
 ---
-
-## 🚀 How to Use  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/yourusername/bike-sharing-demand-prediction.git
